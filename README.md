@@ -4,9 +4,9 @@ Aplicacion movil Android para gestionar eventos universitarios y comunitarios. E
 
 ## Integrante
 
-- Javier Canizalez
-- Modalidad: Proyecto individual
-- Grupo teorico: Pendiente de completar
+- Alumno: Brayan Javier Clemente Canizalez
+- Carnet: CC22071
+- Materia: Desarrollo de Software para Moviles DSM941 G01T (Virtual)
 
 ## Objetivo
 
@@ -163,10 +163,6 @@ http://10.0.2.2:3000/api/
 ## Portadas De Eventos
 
 Las portadas de eventos se almacenan localmente en el dispositivo donde se seleccionan. El backend guarda la ruta local para la demostracion visual, pero las imagenes no se sincronizan entre usuarios porque el proyecto no utiliza un servicio externo de archivos como Firebase Storage o Cloudinary.
-
-## Disenos Mockups
-
-Pendiente de agregar link.
 
 ## Licencia Creative Commons
 
