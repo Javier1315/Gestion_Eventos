@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "868494657504",
+    "project_id": "gestion-ddcd3",
+    "storage_bucket": "gestion-ddcd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868494657504:android:8ba0eb2bc955905a0b8d85",
+        "android_client_info": {
+          "package_name": "gestion_eventos.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868494657504-qujpkbr7104ig060k0bkpj8aao1223f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gestion_eventos.com",
+            "certificate_hash": "819bfdd890277f5689ac5becae6a3394bdf9db56"
+          }
+        },
+        {
+          "client_id": "868494657504-q1hblco8ggc7kj3lbev8ahlsq2thqc7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6EtRBMtlunG83l9GxuIY-0A8xOQpSb3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868494657504-q1hblco8ggc7kj3lbev8ahlsq2thqc7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

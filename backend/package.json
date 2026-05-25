@@ -1,0 +1,22 @@
+{
+  "name": "gestion-eventos-api",
+  "version": "1.0.0",
+  "description": "API REST para la aplicacion Gestion de Eventos.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "events",
+    "api",
+    "express"
+  ],
+  "author": "Javier Canizalez",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.5.0"
+  }
+}
